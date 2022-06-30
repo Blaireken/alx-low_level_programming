@@ -2,6 +2,8 @@
 /**
  * main - prints "with proper grammar, but the outcome is a piece of art,"
  *
+ * printf- prints out to stdoutput
+ *
  *  Description: prints with proper grammar, but the outcome is a piece of art,
  *
  *  returns: 0
