@@ -1,12 +1,13 @@
 #include<stdio.h>
 
-/**                                                                                     
+/**
  * main - Entry point
  *
- * Description; Prints the with proper grammar, but the outcome is a piece of art,
+ * description: print output entered wuthin the parenthesis
  *
- * Return: Always 0 (Success)
- */  
+ * Return: always 0 (success)
+ */
+
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
