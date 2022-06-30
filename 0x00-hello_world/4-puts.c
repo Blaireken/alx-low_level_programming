@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main - Entry point.
  *
- * description: puts Prints out programming is like building a multilingual puzzle
+ * description: prints out the message to standard output
  *
  * return: Always 0(success)
  */
