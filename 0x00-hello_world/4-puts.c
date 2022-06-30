@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Descripti0n: puts Programming is like building a multilingual puzzle
+ * Description: puts Programming is like building a multilingual puzzle
  *
  * return: Always 0(success)
  */
