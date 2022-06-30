@@ -1,6 +1,15 @@
 #include<stdio.h>
 
-int main()
+/**
+ *
+ * main - Entry point
+ *
+ * Description; Prints sizeof variables
+ *
+ * Return: Always 0 (Success)
+ *
+ */
+int main(void)
 {
 	int i;
 	char c;
@@ -9,7 +18,7 @@ int main()
 	float f;
 
 
-	printf("Size of char: %lu byte(s)\n",(unsigned long)sizeof(c));
+	printf("Size of char: %lu byte(s)\n", (unsigned long)sizeof(c));
 	printf("Size of int: %li byte(s)\n", (unsigned long)sizeof(i));
 	printf("Size of long int: %li byte(s)\n", (unsigned long)sizeof(l));
 	printf("Size of long long int: %li byte(s)\n", (unsigned long)sizeof(m));
