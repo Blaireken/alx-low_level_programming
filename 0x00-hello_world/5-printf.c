@@ -1,12 +1,9 @@
-#include <stdio.h>
+#include<stdio.h>
+
 /**
- * main - prints "with proper grammar, but the outcome is a piece of art,"
+ * main - Entry point
  *
- * printf- prints out to stdoutput
- *
- *  Description: prints with proper grammar, but the outcome is a piece of art,
- *
- *  returns: 0
+ * return: Always 0
  */
 int main(void)
 {
