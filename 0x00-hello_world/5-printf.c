@@ -1,5 +1,6 @@
 #include <stdio.h>
-/*prints with proper grammar, but the outcome is a piece of art,
+/**
+ * prints with proper grammar, but the outcome is a piece of art,
  */
 int main(void)
 {
