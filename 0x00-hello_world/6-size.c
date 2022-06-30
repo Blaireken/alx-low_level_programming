@@ -1,13 +1,11 @@
 #include<stdio.h>
 
 /**
- *
  * main - Entry point
  *
  * Description; Prints sizeof variables
  *
  * Return: Always 0 (Success)
- *
  */
 int main(void)
 {
