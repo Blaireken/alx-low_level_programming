@@ -1,16 +1,16 @@
 #include <stdio.h>
 
 /**
- * main: Entry point
+ * main - Entry point
  *
- * Descriptiom: puts output
+ * Descriptiom: puts Programming is like building a multilingual puzzle
  *
- * return: Always 0
+ * return: Always 0(success)
  */
 
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
 
-	return 0;
+	return (0);
 }
