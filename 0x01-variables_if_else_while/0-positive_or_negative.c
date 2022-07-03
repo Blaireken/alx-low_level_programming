@@ -9,8 +9,8 @@
  *
  * main - Prints a random number and states whethers its p or n
  *
- * description: 
- *
+ * description - it is positive, negative, or zero.
+ * 
  * return: Always 0.
  */
 
