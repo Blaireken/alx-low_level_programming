@@ -5,6 +5,13 @@
 #include <stdio.h>
 /* more headers goes there */
 
+/**
+ * main - Prints a random number and states whether 
+ * 	it's positive, negative, or zero
+ *
+ * return: always 0.
+ *
+ */
 /* description :  program will assign a random number to thevariable */
 
 /* betty style doc for function main goes there */
