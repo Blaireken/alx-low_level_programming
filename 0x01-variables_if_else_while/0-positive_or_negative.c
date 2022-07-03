@@ -6,9 +6,10 @@
 /* more headers goes there */
 
 /**
- * main - Prints a random number and states whether it's positive, negative, or zero
+ * main - Prints a random number and states.
  *
- *description; program will assign a random number to thevariable. 
+ *description; program will assign a random number to the variable.
+ * 
  * return: always 0.
  *
  */
