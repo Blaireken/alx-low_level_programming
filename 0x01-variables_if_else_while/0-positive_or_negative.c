@@ -6,16 +6,13 @@
 /* more headers goes there */
 
 /**
- * main - Prints a random number and states.
  *
- *description; program will assign a random number to the variable.
- * 
- * return: always 0.
+ * main - Prints a random number and states whethers its p or n
  *
+ * description: 
+ *
+ * return: Always 0.
  */
-
-
-/* betty style doc for function main goes there */
 
 int main(void)
 {
