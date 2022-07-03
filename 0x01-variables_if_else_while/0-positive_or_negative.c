@@ -5,6 +5,8 @@
 #include <stdio.h>
 /* more headers goes there */
 
+/* description :  program will assign a random number to thevariable */
+
 /* betty style doc for function main goes there */
 
 int main(void)
