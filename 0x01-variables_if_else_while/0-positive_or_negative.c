@@ -7,11 +7,10 @@
 
 /**
  *
- * main - Prints a random number and states whethers its p or n
+ * main: Prints a random number and states whethers its p or n
  *
  * description - it is positive, negative, or zero.
- * 
- * return: Always 0.
+ *return: Always 0(success)
  */
 
 int main(void)
