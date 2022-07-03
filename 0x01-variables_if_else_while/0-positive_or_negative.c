@@ -9,7 +9,7 @@
  *
  * main: Prints a random number and states whethers its p or n
  *
- * description - it is positive, negative, or zero.
+ * description: it is positive, negative, or zero.
  *return: Always 0(success)
  */
 
