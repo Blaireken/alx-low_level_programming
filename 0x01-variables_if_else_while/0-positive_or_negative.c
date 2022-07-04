@@ -6,8 +6,7 @@
 /* more headers goes there */
 
 /**
- *
- * main: Prints a random number and states whethers its p or n
+ * main - Entry point
  *
  * description: it is positive, negative, or zero.
  *return: Always 0(success)
