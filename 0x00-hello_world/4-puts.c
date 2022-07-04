@@ -3,11 +3,10 @@
 /**
  * main - Entry point.
  *
- * description: prints out the message to standard output
+ * Description :  prints exactly "Programming is like building..."
  *
- * return: Always 0(success)
+ * Return: Always 0 (success)
  */
-
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
