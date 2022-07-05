@@ -6,9 +6,7 @@
  * @a,b: integers to be added
  */
 
-int add(int, int)
+int add(int a, int b)
 {
-	int a, b;
-
 	return ( a + b);
 }
