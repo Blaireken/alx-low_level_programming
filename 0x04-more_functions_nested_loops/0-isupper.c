@@ -13,6 +13,6 @@ int _isupper(int c)
 		return (1);
 
 	else
-		retur (0);
+		return (0);
 
 }
