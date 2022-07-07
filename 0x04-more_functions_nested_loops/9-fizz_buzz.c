@@ -8,6 +8,9 @@
 int main(void)
 {
 	int a;
+	char f[] = "Fizz";
+	char b[] = "Buzz";
+	char fb[] = "FizzBuzz";
 
 	for(a = 0; a <= 100; a++)
 	{
