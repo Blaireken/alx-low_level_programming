@@ -12,7 +12,7 @@ int main(void)
 	char b[] = "Buzz";
 	char fb[] = "FizzBuzz";
 
-	for(a = 0; a <= 100; a++)
+	for (a = 0; a <= 100; a++)
 	{
 		if (a == 100)
 			printf("%s", b);
@@ -24,6 +24,7 @@ int main(void)
 			printf("%s", b);
 		else
 			printf("%d", a);
+
 
 	}
 	printf("\n");
