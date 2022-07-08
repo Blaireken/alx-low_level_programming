@@ -2,7 +2,7 @@
 
 /**
  * _isupper - Write a function that checks for uppercase character
- * @c - character to be checked
+ * @c: character to be checked
  *
  * Return:1 if c is uppercase.Returns 0 otherwise
  */
