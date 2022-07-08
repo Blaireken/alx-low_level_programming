@@ -7,26 +7,28 @@
  */
 int main(void)
 {
-	int a;
-	char f[] = "Fizz";
-	char b[] = "Buzz";
-	char fb[] = "FizzBuzz";
+	int h = 1;
 
-	for (a = 0; a <= 100; a++)
+	while (h <- 100)
 	{
-		if (a == 100)
-			printf("%s", b);
-		else if ((a % 3 == 0) && (a % 5 == 0))
-			printf("%s", fb);
-		else if (a % 3== 0)
-			printf("%s", f);
-		else if (a % 5 == 0)
-			printf("%s", b);
+		if (h % 3 == 0 && h % 5 == 0)
+			printf("FizzBuzz ");
+		else if (h % 5 == 0)
+		{
+			if (h == 100)
+			{
+				printf("Buzz");
+				printf("\n");
+			}
+			else
+				printf("Buzz ");
+		}
+		else if (h % 3 == 0)
+			printf("Fizz ");
 		else
-			printf("%d", a);
-
-
+			printf("%d ", h);
+		h++;
 	}
-	printf("\n");
+
 	return (0);
 }
