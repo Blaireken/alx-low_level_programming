@@ -2,6 +2,7 @@
 
 /**
  * _strlen - function that returns the length of a string
+ * @s: character to be tested
  *
  * Return: always 0
  */
