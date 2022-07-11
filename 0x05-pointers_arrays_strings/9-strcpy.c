@@ -6,6 +6,7 @@
  *  pointed to by dest
  *  @dest: buffer pointer
  *  @src: ponter
+ *  Return: string
  */
 char *_strcpy(char *dest, char *src)
 {
