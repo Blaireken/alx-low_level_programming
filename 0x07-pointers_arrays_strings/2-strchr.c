@@ -4,8 +4,8 @@
  * *_strchr - Write a function that locates a character
  * 	 in a string.Returns a pointer to the first
  * 	  occurrence of the character c in the string s
- * @char *s: String to be checked
- * @char c: character to be checked
+ * @s: String to be checked
+ * @c: character to be checked
  *
  * Return: Null if no character is found.
  * 	a pointer to the first occurence if found
