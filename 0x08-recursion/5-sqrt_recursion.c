@@ -2,11 +2,11 @@
 int squareroot(int n, int i);
 /**
  * _sqrt_recursion - function that returns the natural square
- * 	 root of a number.
+ * root of a number.
  * @n: integer to check sq
  *
  * Return: -1 if n doesnt have natural sq
- * 	else return sq
+ * else return sq
  */
 int _sqrt_recursion(int n)
 {
