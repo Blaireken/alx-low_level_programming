@@ -2,11 +2,11 @@
 
 /**
  * factorial - function that returns the factorial
- * 	 of a given number.
+ * of a given number.
  * @n: no to factorize
  *
  * Return: if n is lower than 0 return -1
- * 		return factorial n
+ * return factorial n
  */
 int factorial(int n)
 {
